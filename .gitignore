@@ -1,0 +1,5 @@
+.env
+project/*
+faiss_vector_db/*
+brain
+__pycache__
